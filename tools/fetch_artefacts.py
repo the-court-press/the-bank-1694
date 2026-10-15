@@ -14,7 +14,7 @@ PLAN = os.path.join(HERE, "artefacts_plan.json")
 OUT = os.path.join(ROOT, "data", "artefacts.json")
 os.makedirs(IMG, exist_ok=True)
 
-UA = "Bank1694Artefacts/1.0 (personal learning project; github.com/julianlee314-hue/the-bank-1694)"
+UA = "Bank1694Artefacts/1.0 (personal learning project; github.com/the-court-press/the-bank-1694)"
 WP = "https://en.wikipedia.org/w/api.php"
 CM = "https://commons.wikimedia.org/w/api.php"
 FREE = re.compile(r"public domain|^pd|cc0|cc[- ]by|no restrictions|attribution|gfdl|free art|copyrighted free use", re.I)

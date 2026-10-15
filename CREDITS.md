@@ -17,7 +17,7 @@ Event labels and short summaries are an editorial draft for *The Bank, 1694–19
 
 ## Design
 
-Visual family (Bodoni Moda / Libre Franklin / IBM Plex Mono, engraved-ledger palette) follows Julius’s companion site [The Dow, 1896–2016](https://julianlee314-hue.github.io/dow-timeline/v0.2/). Charting uses [D3](https://d3js.org/) 7.9 from cdnjs.
+Visual family (Bodoni Moda / Libre Franklin / IBM Plex Mono, engraved-ledger palette) follows Julius’s companion site [The Dow, 1896–2016](https://the-court-press.github.io/dow-timeline/v0.2/). Charting uses [D3](https://d3js.org/) 7.9 from cdnjs.
 
 ## Monarch portraits
 
